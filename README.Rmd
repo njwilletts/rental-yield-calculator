@@ -1,6 +1,0 @@
----
-title: "Rental Yield Calculator"
-output: github_document
----
-
-
