@@ -3,8 +3,8 @@ Rental Yield Calculator
 
 ## Overview
 
-This is a Rshiny application which calculates profitability metrics of a
-rental property from user supplied information.
+This is an Rshiny application which calculates profitability metrics of
+a rental property from user supplied information.
 
 ## Screenshots
 
